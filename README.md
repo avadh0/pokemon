@@ -9,7 +9,7 @@ This project focuses on **clean architecture, performance optimization, and user
 ## 🚀 Live Demo
 
 🔗 **Netlify Deployment:**
-👉 https://your-netlify-link-here.netlify.app
+👉 [https://your-netlify-link-here.netlify.app](https://celadon-cranachan-1864c.netlify.app/)
 
 *(Replace with your actual deployed link)*
 
